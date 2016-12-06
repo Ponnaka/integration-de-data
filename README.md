@@ -21,7 +21,7 @@ Après avoir entrer un **Pseudo Twitter** dans le formulaire (Exemple : 'tpmp'),
 
 <li><h4>Technologies :</h4></li>
 
- - [x] Code en JavaScript
+ - [x] Code en exclusivement JavaScript sans librairies ou bibliothèques importées
  - [x] Récupération des Tweets sans l'API Twitter 1.1
  - [x] Correction orthographique avec le dictionnaire "dictionnaire"
  - [x] Lemmatisation programmée par nos soins
