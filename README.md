@@ -5,6 +5,7 @@ Hugo Deléglise (Pipapou)</br>
 Ikram Jendari (Ikramounette)</br>
 Kevin Barbou Des Courières (lRedOx)</br>
 
+<img src="images/happy64.png" alt="JOIE">
 
 <h3>TESTER LE CODE</h3>
 Après avoir télécharger l'ensemble des fichier dont vous avez besoin : **'index.html' ; 'style.css' ; 'correcteur.js' ; 'lemmatiseur.js' ; 'feel.js' ; 'dictionnaire/' ; 'Feel/' ; 'images/' ; 'lemm'**.
