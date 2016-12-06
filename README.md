@@ -1,23 +1,36 @@
 # PHIK
 
-Ponnaka Tith (Ponnaka) </br>
+Ponnaka Tith (Ponnaka)</br>
 Hugo Deléglise (Pipapou)</br>
-Ikram Jendari (Ikramounette) </br>
-Kevin Barbou Des Courières (lRedOx) </br>
+Ikram Jendari (Ikramounette)</br>
+Kevin Barbou Des Courières (lRedOx)</br>
+
+<h3>TESTER LE CODE</h3>
+<p>Après avoir télécharger l'ensemble des fichier dont vous avez besoin : `index.html` ; `style.css` ; `correcteur.js` ; `lemmatiseur.js` ; `feel.js` ; `dictionnaire/` ; `Feel/` ; `images/` ; `lemm/`.</p>
+<p>Ce code ne marche que sur le navigateur MOZILLA Firefox car sur les autres navigateur, l'ouverture des fichiers .json est impossible sur les autres navigateurs testés.</p>
+<p>Après avoir entrer un Pseudo Twitter dans le formulaire (Exemple : 'tpmp'), cliquer sur Lancer puis attender quelques secondes (cela dépend de votre ordinateur), ensuite les tweets vont apparaître avec pour chacun leurs % de "sentiments" en fonction du nombre d'expression traitée par la fonction dans `feel.js` puis le % globale de "sentiments" des tweets récupérés.</p>
 
 
-<li>Technologies :</li>
 
- > Code en JavaScript</br>
- > Correction orthographique avec le dictionnaire « dictionnaire »</br>
- > Lemmatisation programmée par nos soins</br>
- > Vectorisation des mots lemmatisés avec le dictionnaire émotionnel « feel »</br>
- > Interface en HTML et CSS</br>
+<li><h4>Technologies :</h4></li>
 
-<li>Fonctionnalités :</li>
+ - [x] Code en JavaScript
+ - [x] Récupération des Tweets sans l'API Twitter 1.1
+ - [x] Correction orthographique avec le dictionnaire "dictionnaire"
+ - [x] Lemmatisation programmée par nos soins
+ - [x] Vectorisation des mots lemmatisés avec le dictionnaire émotionnel « feel »
+ - [x] Interface en HTML et CSS
+ - [ ] Graphique pour avoir quelque chose de visuel et plus rapide à analyser
+ - [ ] Des statistiques plus complexes
+ - [ ] Traiter les hashtags
+ - [ ] Optimiser le traitement du langage
+ - [ ] Rendre le dictionnaire dynamique
+
+
+<li><h4>Fonctionnalités :</h4></li>
 
 <p>Dans un premier temps, nous indiquons au logiciel le pseudo dont nous souhaitons traiter les tweets.  A noter que le logiciel fonctionne seulement sur les tweets en français.</p>
 
 <p>Les tweets récupérés seront caractérisés selon 6 émotions qui sont la joie, la colère, la tristesse, le dégoût, la surprise et la peur. Nous aurons également une valence moyenne (positif/négatif) pour chacun d’eux.</p>
 
-<p>Pour chacune des émotions une moyenne globale des tweets sera calculée et une liste déroulante nous permettra de voir tous les tweets en détail ainsi que le pseudo de l’auteur et des 6 émotions.</p>
+<p>Pour chacune des émotions une moyenne globale des tweets sera calculée et une liste nous permettra de voir tous les tweets en détail ainsi que le pseudo de l’auteur et des 6 émotions.</p>
