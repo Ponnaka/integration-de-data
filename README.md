@@ -1,12 +1,9 @@
 # PHIK
 
-Ponnaka Tith (Ponnaka)
-
-Hugo Deléglise (Pipapou)
-
-Ikram Jendari (Ikramounette)
-
-Kevin Barbou Des Courières (lRedOx)
+Ponnaka Tith (Ponnaka)</br>
+Hugo Deléglise (Pipapou)</br>
+Ikram Jendari (Ikramounette)</br>
+Kevin Barbou Des Courières (lRedOx)</br>
 
 
 <h3>TESTER LE CODE</h3>
