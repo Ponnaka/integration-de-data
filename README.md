@@ -6,9 +6,9 @@ Ikram Jendari (Ikramounette)</br>
 Kevin Barbou Des Courières (lRedOx)</br>
 
 <h3>TESTER LE CODE</h3>
-<p>Après avoir télécharger l'ensemble des fichier dont vous avez besoin : `index.html` ; `style.css` ; `correcteur.js` ; `lemmatiseur.js` ; `feel.js` ; `dictionnaire/` ; `Feel/` ; `images/` ; `lemm/`.</p>
+<p>Après avoir télécharger l'ensemble des fichier dont vous avez besoin : 'index.html' ; 'style.css' ; 'correcteur.js' ; 'lemmatiseur.js' ; 'feel.js' ; 'dictionnaire/' ; 'Feel/' ; 'images/' ; 'lemm'.</p>
 <p>Ce code ne marche que sur le navigateur MOZILLA Firefox car sur les autres navigateur, l'ouverture des fichiers .json est impossible sur les autres navigateurs testés.</p>
-<p>Après avoir entrer un Pseudo Twitter dans le formulaire (Exemple : 'tpmp'), cliquer sur Lancer puis attender quelques secondes (cela dépend de votre ordinateur), ensuite les tweets vont apparaître avec pour chacun leurs % de "sentiments" en fonction du nombre d'expression traitée par la fonction dans `feel.js` puis le % globale de "sentiments" des tweets récupérés.</p>
+<p>Après avoir entrer un Pseudo Twitter dans le formulaire (Exemple : 'tpmp'), cliquer sur Lancer puis attender quelques secondes (cela dépend de votre ordinateur), ensuite les tweets vont apparaître avec pour chacun leurs % de "sentiments" en fonction du nombre d'expression traitée par la fonction dans 'feel.js' puis le % globale de "sentiments" des tweets récupérés.</p>
 
 
 
