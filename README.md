@@ -8,11 +8,11 @@ Kevin Barbou Des Courières (lRedOx) </br>
 
 <li>Technologies :</li>
 
-●	Code en JavaScript
-●	Correction orthographique avec le dictionnaire « dictionnaire »</br>
-●	Lemmatisation programmée par nos soins</br>
-●	Vectorisation des mots lemmatisés avec le dictionnaire émotionnel « feel »</br>
-●	Interface en HTML et CSS</br>
+ > Code en JavaScript</br>
+ > Correction orthographique avec le dictionnaire « dictionnaire »</br>
+ > Lemmatisation programmée par nos soins</br>
+ > Vectorisation des mots lemmatisés avec le dictionnaire émotionnel « feel »</br>
+ > Interface en HTML et CSS</br>
 
 <li>Fonctionnalités :</li>
 
