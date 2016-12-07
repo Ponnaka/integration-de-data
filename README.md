@@ -8,6 +8,9 @@ Kevin Barbou Des Courières (lRedOx)</br>
 <img src="images/PHIK.png" alt="JOIE">
 
 <h3>TESTER LE CODE</h3>
+
+Lien : https://lredox.github.io/PHIK/
+
 Après avoir télécharger l'ensemble des fichier dont vous avez besoin : **'index.html' ; 'style.css' ; 'correcteur.js' ; 'lemmatiseur.js' ; 'feel.js' ; 'dictionnaire/' ; 'Feel/' ; 'images/' ; 'lemm'**.
 
 Ce code ne marche que sur le navigateur **MOZILLA Firefox** car sur les autres navigateur, l'ouverture des fichiers .json est impossible sur les autres navigateurs testés.
